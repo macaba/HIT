@@ -1,1 +1,1 @@
-# HIT
+# High Isolation Transformer
