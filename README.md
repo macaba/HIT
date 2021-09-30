@@ -1,5 +1,7 @@
 # High Isolation Transformer
 
+Filament: CON-PLA-PASTA-1.75mm
+
 ![alt text](Photos/IMG_4836.jpg)
 ![alt text](Photos/IMG_4363.jpg)
 ![alt text](Photos/IMG_4364.jpg)
